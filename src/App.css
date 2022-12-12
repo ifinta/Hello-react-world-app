@@ -1,0 +1,15 @@
+.Say-rows {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.Spell-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: blue;
+  font-size: xx-large;
+}
